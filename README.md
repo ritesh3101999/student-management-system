@@ -21,5 +21,5 @@ A comprehensive desktop application designed to streamline the management of stu
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/ritesh3101999/student-management-system.git](https://github.com/ritesh3101999/student-management-system.git)
+   git clone https://github.com/ritesh3101999/student-management-system.git
    cd student-management-system
